@@ -1,2 +1,2 @@
 # SnakeGameProject
- Snake Game Demo by Deonico M. Casenillo Jr 
+ Snake Game Demo by Deonico Casenillo 
